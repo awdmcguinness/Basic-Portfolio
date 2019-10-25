@@ -94,3 +94,17 @@ p {
   padding-top: 5px;
   margin-top: 5px;
 }
+
+.grid-container {
+  display: grid;
+  grid-template-columns: auto auto;
+
+  padding: 10px;
+}
+.grid-item {
+  background-color: (255, 255, 255, 0.8);
+  border: 1px (0, 0, 0, 0.8);
+  padding: 20px;
+  font-size: 30px;
+  text-align: center;
+}
