@@ -19,7 +19,7 @@ header::after {
 
 .navbar {
   width: 960px;
-  margin: 0 auto;
+  margin-left: 130px;
 }
 
 .name {
@@ -31,7 +31,10 @@ header::after {
   font-family: Georgia, "Times New Roman", Times, serif;
   float: left;
   border-left: 10px;
-  margin: 0 auto;
+  margin: 20px;
+}
+.links {
+  margin-left: 600px;
 }
 
 a {
@@ -61,7 +64,7 @@ a:hover::before {
 
 .nav {
   list-style-type: none;
-  float: right;
+  float: left;
   margin-left: 20px;
   margin-right: 20px;
   padding-top: 22px;
