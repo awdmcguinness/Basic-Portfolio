@@ -139,6 +139,7 @@ p {
   padding: 20px;
   font-size: 30px;
   text-align: center;
+  margin-right: 100px;
 }
 .container-portfolio {
   clear: both;
@@ -230,4 +231,10 @@ footer {
   font-size: 10px;
   border-top: 5px solid #4aaaa5;
   height: auto;
+}
+footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
 }
